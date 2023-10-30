@@ -20,3 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidalz&show_icons=true&locale=en" alt="hidalz" /></p>
 
+<a align="center" href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c3b3b8e244f2be6a49a7bd?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
