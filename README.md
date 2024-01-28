@@ -1,11 +1,7 @@
 <h1 align="center" style="color: white;">Hi 👋, I'm Moisés</h1>
 <h3 align="center" style="color: white;">A Platform Automation Engineer from Spain</h3>
 
-- 🔭 I’m currently working on [Streamlinning Security in Cloud Native](https://github.com/hidalz/cloud_security_todo_app)
-
-- 🌱 I’m currently learning **leetcode & roadmap.sh/backend**
-
-- 📝 I regularly write articles on [hidalz.dev](hidalz.dev)
+- 🌱 I’m currently learning **Certified Kubernetes Administrator**
 
 - 📫 How to reach me **hidalz@proton.me**
 
