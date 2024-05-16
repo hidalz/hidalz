@@ -1,5 +1,5 @@
 <h1 align="center" style="color: white;">Hi 👋, I'm Moisés</h1>
-<h3 align="center" style="color: white;">A Platform Automation Engineer from Spain</h3>
+<h3 align="center" style="color: white;">A Platform Engineer from Spain</h3>
 
 - 🌱 I’m currently learning **Certified Kubernetes Administrator**
 
