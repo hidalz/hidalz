@@ -7,14 +7,8 @@
     </a>
 </div>
   <h1 align="center" style="color: white;">Hi! 👋, I'm Moisés</h1>
-<h3 align="center" style="color: white;">An SRE from Spain, based in Paris</h3>
+  <p align="center">I'm a Site Reliability Engineer from Spain, based in Paris. I have background in SWE, Test Automation & Cybersecurity.</p>
   <div id="header" align="center">
-
-<div align="center">
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Site Reliability Engineer with background in SWE, Test Automation & Cybersecurity. </p>
-</div>
 
 <div align="center">
     <h2 style="color: white;">Programming Languages</h2>
