@@ -11,8 +11,8 @@
   <div id="header" align="center">
 
 <div align="center">
-    <h2 style="color: white;">Programming Languages</h2>
-    <p style="color: white;"> Making the "It works on my machine!"</p>
+    <h2 style="color: white;">Languages</h2>
+    <p style="color: white;"> Making the: "It works on my machine!"</p>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
     </div>
 <div align="center">
     <h2 style="color: white;">Cloud Technologies</h2>
-    <p style="color: white;"> Avoiding the: "...but it worked on my machine!"</p>
+    <p style="color: white;"> Avoiding the: "...it worked on my machine!"</p>
 </div>
 
 
@@ -35,4 +35,20 @@
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>
+
+<div align="center">
+    <h2 style="color: white;">Observability</h2>
+    <p style="color: white;"> Understanding why: "...it worked on my machine!" <p>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    <img src="https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+    <img src="https://img.shields.io/badge/Jaeger-00A3E0?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" />
+</div>
+
 </div>
