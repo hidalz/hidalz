@@ -7,7 +7,7 @@
     </a>
 </div>
   <h1 align="center" style="color: white;">Hi! 👋, I'm Moisés</h1>
-  <p align="center">I'm a Site Reliability Engineer from Spain, based in Paris. I have background in SWE, Test Automation & Cybersecurity.</p>
+  <p align="center">I'm a Site Reliability Engineer from Spain, based in Paris. I have background in Software Engineering, QA Automation, Cybersecurity & Platform Engineering.</p>
   <div id="header" align="center">
 
 <div align="center">
@@ -39,20 +39,20 @@
     <a href="https://kubernetes.io/">
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     </a>
+    <a href="https://helm.sh/">
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+    </a>
     <a href="https://www.terraform.io/">
         <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-    </a>
-    <a href="https://aws.amazon.com/">
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     </a>
     <a href="https://www.docker.com/">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </a>
+    <a href="https://aws.amazon.com/">
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    </a>
     <a href="https://azure.microsoft.com/">
         <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-    </a>
-    <a href="https://helm.sh/">
-        <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
     </a>
     <a href="https://www.linux.org/">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -67,7 +67,7 @@
 
 <div align="center">
     <h2 style="color: white;">Observability</h2>
-    <p style="color: white;"> Understanding why: "...it worked on my machine!"</p>
+    <p style="color: white;"> Understanding why it worked on your machine but broke Production 🤠</p>
 </div>
 
 <div align="center">
@@ -77,15 +77,18 @@
     <a href="https://grafana.com/">
         <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
     </a>
-    <a href="https://www.jaegertracing.io/">
-        <img src="https://img.shields.io/badge/Jaeger-00A3E0?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" />
-    </a>
     <a href="https://opentelemetry.io/">
         <img src="https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
     </a>
 </div>
 
-<br><br>
+<div align="center">
+    <h2 style="color: white;">Certifications</h2>
+    <a href="https://www.cncf.io/certification/cka/">
+        <img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
+    </a>
+</div>
+<br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hidalz&show_icons=true&theme=radical" alt="GitHub Stats" />
