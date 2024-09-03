@@ -63,6 +63,9 @@
                 <a href="https://www.docker.com/">
                     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
                 </a>
+                <a href="https://www.packer.io/">
+                    <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" alt="Packer" />
+                </a>
             </td>
             <td>
                 <a href="https://aws.amazon.com/">
