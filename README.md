@@ -19,9 +19,6 @@
     <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
-    <a href="https://golang.org/">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    </a>
     <a href="https://www.gnu.org/software/bash/">
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
     </a>
@@ -104,9 +101,6 @@
     <a href="https://grafana.com/">
         <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
     </a>
-    <a href="https://opentelemetry.io/">
-        <img src="https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-    </a>
 </div>
 
 <div align="center">
@@ -118,6 +112,27 @@
         <img src="https://img.shields.io/badge/Terraform_Associate_003-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate 003" />
     </a>
 </div>
+
+<div align="center">
+    <h2 style="color: white;">Learning</h2>
+</div>
+
+<div align="center">
+    <a href="https://golang.org/">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    </a>
+    <a href="https://argoproj.github.io/argo-cd/">
+        <img src="https://img.shields.io/badge/ArgoCD-FF9900?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+    </a>
+    <a href="https://opentelemetry.io/">
+        <img src="https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+    </a>
+    <a href="https://www.jaegertracing.io/">
+        <img src="https://img.shields.io/badge/Jaeger-00A3E0?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" />
+    </a>
+    
+</div>
+
 <br>
 
 <div align="center">
