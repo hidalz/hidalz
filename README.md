@@ -40,7 +40,8 @@
             <th>Server Templating</th>
             <th>Cloud Platforms</th>
             <th>Server Operating Systems</th>
-            <th>CI/CD</th>
+            <th>CI</th>
+            <th>CD</th>
         </tr>
         <tr>
             <td>
@@ -85,6 +86,11 @@
                     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
                 </a>
             </td>
+            <td>
+                <a href="https://argoproj.github.io/argo-cd/">
+                    <img src="https://img.shields.io/badge/ArgoCD-FF9900?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+                </a>
+            </td>
         </tr>
     </table>
 </div>
@@ -100,6 +106,9 @@
     </a>
     <a href="https://grafana.com/">
         <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    </a>
+    <a href="https://www.datadoghq.com/">
+        <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
     </a>
 </div>
 
@@ -121,16 +130,6 @@
     <a href="https://golang.org/">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
     </a>
-    <a href="https://argoproj.github.io/argo-cd/">
-        <img src="https://img.shields.io/badge/ArgoCD-FF9900?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
-    </a>
-    <a href="https://opentelemetry.io/">
-        <img src="https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-    </a>
-    <a href="https://www.jaegertracing.io/">
-        <img src="https://img.shields.io/badge/Jaeger-00A3E0?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" />
-    </a>
-    
 </div>
 
 <br>
