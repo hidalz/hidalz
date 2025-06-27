@@ -117,6 +117,9 @@
     <a href="https://www.cncf.io/certification/cka/">
         <img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA" />
     </a>
+    <a href="https://www.cncf.io/certification/ckad/">
+        <img src="https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD" />
+    </a>
     <a href="https://www.hashicorp.com/certification/terraform-associate">
         <img src="https://img.shields.io/badge/Terraform_Associate_003-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate 003" />
     </a>
