@@ -7,7 +7,7 @@
     </a>
 </div>
   <h1 align="center" style="color: white;">Hi! 👋, I'm Moisés</h1>
-  <p align="center">I'm a Site Reliability Engineer from Spain, based in Paris. I have background in Software Engineering, QA Automation, Cybersecurity. Super keen to discuss Platform Engineering as well!.</p>
+  <p align="center">I'm a Site Reliability Engineer from Spain, based in Paris. I have background in Software Engineering, QA Automation, Cybersecurity. Super keen to discuss Platform Engineering as well!</p>
   <div id="header" align="center">
 
 <div align="center">
